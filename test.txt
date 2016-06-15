@@ -1,13 +1,1 @@
-S
-p
-a
-c
-i
-n
-g
-
-t
-e
-s
-t
-!
+Test 1.
